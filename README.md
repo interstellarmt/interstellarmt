@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6715](https://github.com/antvis/G2/pull/6715) in [antvis/G2](https://github.com/antvis/G2)
-2. 🗣 Commented on [#2873](https://github.com/ant-design/ant-design-charts/issues/2873#issuecomment-2756995698) in [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts)
-3. 🗣 Commented on [#2873](https://github.com/ant-design/ant-design-charts/issues/2873#issuecomment-2756988341) in [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts)
-4. ❗ Opened issue [#6714](https://github.com/antvis/G2/issues/6714) in [antvis/G2](https://github.com/antvis/G2)
-5. 🎉 Merged PR [#6713](https://github.com/antvis/G2/pull/6713) in [antvis/G2](https://github.com/antvis/G2)
+1. 🎉 Merged PR [#6715](https://github.com/antvis/G2/pull/6715) in [antvis/G2](https://github.com/antvis/G2)
+2. 🔒 Closed issue [#6699](https://github.com/antvis/G2/issues/6699) in [antvis/G2](https://github.com/antvis/G2)
+3. 🎉 Merged PR [#6708](https://github.com/antvis/G2/pull/6708) in [antvis/G2](https://github.com/antvis/G2)
+4. 💪 Opened PR [#6715](https://github.com/antvis/G2/pull/6715) in [antvis/G2](https://github.com/antvis/G2)
+5. 🗣 Commented on [#2873](https://github.com/ant-design/ant-design-charts/issues/2873#issuecomment-2756995698) in [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts)
 <!--END_SECTION:activity-->
 

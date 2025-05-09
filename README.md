@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6850](https://github.com/antvis/G2/issues/6850) in [antvis/G2](https://github.com/antvis/G2)
-2. ❗ Opened issue [#6849](https://github.com/antvis/G2/issues/6849) in [antvis/G2](https://github.com/antvis/G2)
-3. ❗ Opened issue [#6848](https://github.com/antvis/G2/issues/6848) in [antvis/G2](https://github.com/antvis/G2)
-4. ❗ Opened issue [#6847](https://github.com/antvis/G2/issues/6847) in [antvis/G2](https://github.com/antvis/G2)
-5. ❗ Opened issue [#6846](https://github.com/antvis/G2/issues/6846) in [antvis/G2](https://github.com/antvis/G2)
+1. ❗ Opened issue [#6856](https://github.com/antvis/G2/issues/6856) in [antvis/G2](https://github.com/antvis/G2)
+2. ❗ Opened issue [#6855](https://github.com/antvis/G2/issues/6855) in [antvis/G2](https://github.com/antvis/G2)
+3. ❗ Opened issue [#6854](https://github.com/antvis/G2/issues/6854) in [antvis/G2](https://github.com/antvis/G2)
+4. ❗ Opened issue [#6853](https://github.com/antvis/G2/issues/6853) in [antvis/G2](https://github.com/antvis/G2)
+5. ❗ Opened issue [#6852](https://github.com/antvis/G2/issues/6852) in [antvis/G2](https://github.com/antvis/G2)
 <!--END_SECTION:activity-->
 

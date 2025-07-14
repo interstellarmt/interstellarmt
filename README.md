@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6961](https://github.com/antvis/G2/pull/6961) in [antvis/G2](https://github.com/antvis/G2)
-2. 🗣 Commented on [#6961](https://github.com/antvis/G2/pull/6961#issuecomment-3061244772) in [antvis/G2](https://github.com/antvis/G2)
-3. 🗣 Commented on [#6961](https://github.com/antvis/G2/pull/6961#issuecomment-3061185557) in [antvis/G2](https://github.com/antvis/G2)
-4. 🗣 Commented on [#7022](https://github.com/antvis/G2/issues/7022#issuecomment-3060790063) in [antvis/G2](https://github.com/antvis/G2)
-5. 🗣 Commented on [#7025](https://github.com/antvis/G2/issues/7025#issuecomment-3060184650) in [antvis/G2](https://github.com/antvis/G2)
+1. 🗣 Commented on [#7029](https://github.com/antvis/G2/issues/7029#issuecomment-3067984376) in [antvis/G2](https://github.com/antvis/G2)
+2. 🎉 Merged PR [#6961](https://github.com/antvis/G2/pull/6961) in [antvis/G2](https://github.com/antvis/G2)
+3. 🗣 Commented on [#6961](https://github.com/antvis/G2/pull/6961#issuecomment-3061244772) in [antvis/G2](https://github.com/antvis/G2)
+4. 🗣 Commented on [#6961](https://github.com/antvis/G2/pull/6961#issuecomment-3061185557) in [antvis/G2](https://github.com/antvis/G2)
+5. 🗣 Commented on [#7022](https://github.com/antvis/G2/issues/7022#issuecomment-3060790063) in [antvis/G2](https://github.com/antvis/G2)
 <!--END_SECTION:activity-->
 

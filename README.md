@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/antvis/mcp-server-antv/pull/14) in [antvis/mcp-server-antv](https://github.com/antvis/mcp-server-antv)
-2. 🗣 Commented on [#7067](https://github.com/antvis/G2/issues/7067#issuecomment-3162859944) in [antvis/G2](https://github.com/antvis/G2)
-3. 🗣 Commented on [#5237](https://github.com/antvis/G2/issues/5237#issuecomment-3162223127) in [antvis/G2](https://github.com/antvis/G2)
-4. 🔒 Closed issue [#7065](https://github.com/antvis/G2/issues/7065) in [antvis/G2](https://github.com/antvis/G2)
-5. 🗣 Commented on [#6242](https://github.com/antvis/G2/issues/6242#issuecomment-3149558082) in [antvis/G2](https://github.com/antvis/G2)
+1. 🎉 Merged PR [#16](https://github.com/antvis/mcp-server-antv/pull/16) in [antvis/mcp-server-antv](https://github.com/antvis/mcp-server-antv)
+2. 💪 Opened PR [#16](https://github.com/antvis/mcp-server-antv/pull/16) in [antvis/mcp-server-antv](https://github.com/antvis/mcp-server-antv)
+3. 🎉 Merged PR [#15](https://github.com/antvis/mcp-server-antv/pull/15) in [antvis/mcp-server-antv](https://github.com/antvis/mcp-server-antv)
+4. 💪 Opened PR [#15](https://github.com/antvis/mcp-server-antv/pull/15) in [antvis/mcp-server-antv](https://github.com/antvis/mcp-server-antv)
+5. 💪 Opened PR [#14](https://github.com/antvis/mcp-server-antv/pull/14) in [antvis/mcp-server-antv](https://github.com/antvis/mcp-server-antv)
 <!--END_SECTION:activity-->
 

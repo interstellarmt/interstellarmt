@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7073](https://github.com/antvis/G2/issues/7073#issuecomment-3187606711) in [antvis/G2](https://github.com/antvis/G2)
-2. 🗣 Commented on [#7070](https://github.com/antvis/G2/pull/7070#issuecomment-3177856287) in [antvis/G2](https://github.com/antvis/G2)
-3. 🚀 Published release [0.1.3](https://github.com/antvis/mcp-server-antv/releases/tag/0.1.3) in [antvis/mcp-server-antv](https://github.com/antvis/mcp-server-antv)
-4. 🗣 Commented on [#15](https://github.com/antvis/mcp-server-antv/pull/15#issuecomment-3174757479) in [antvis/mcp-server-antv](https://github.com/antvis/mcp-server-antv)
-5. 🎉 Merged PR [#16](https://github.com/antvis/mcp-server-antv/pull/16) in [antvis/mcp-server-antv](https://github.com/antvis/mcp-server-antv)
+1. 🗣 Commented on [#6976](https://github.com/antvis/G2/pull/6976#issuecomment-3191091443) in [antvis/G2](https://github.com/antvis/G2)
+2. ❌ Closed PR [#6976](https://github.com/antvis/G2/pull/6976) in [antvis/G2](https://github.com/antvis/G2)
+3. 🗣 Commented on [#6975](https://github.com/antvis/G2/pull/6975#issuecomment-3191090992) in [antvis/G2](https://github.com/antvis/G2)
+4. ❌ Closed PR [#6975](https://github.com/antvis/G2/pull/6975) in [antvis/G2](https://github.com/antvis/G2)
+5. 🗣 Commented on [#6977](https://github.com/antvis/G2/pull/6977#issuecomment-3191090376) in [antvis/G2](https://github.com/antvis/G2)
 <!--END_SECTION:activity-->
 

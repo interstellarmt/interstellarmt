@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#359](https://github.com/antvis/component/pull/359#issuecomment-3414719881) in [antvis/component](https://github.com/antvis/component)
-2. 💪 Opened PR [#359](undefined) in [antvis/component](https://github.com/antvis/component)
-3. 🔒 Closed issue [#6335](https://github.com/antvis/G2/issues/6335) in [antvis/G2](https://github.com/antvis/G2)
-4. 🗣 Commented on [#6335](https://github.com/antvis/G2/issues/6335#issuecomment-3410425235) in [antvis/G2](https://github.com/antvis/G2)
-5.  Labeled issue [#6327](https://github.com/antvis/G2/issues/6327) in [antvis/G2](https://github.com/antvis/G2)
+1. 🔒 Closed issue [#6570](https://github.com/antvis/G2/issues/6570) in [antvis/G2](https://github.com/antvis/G2)
+2. 🗣 Commented on [#6570](https://github.com/antvis/G2/issues/6570#issuecomment-3421812476) in [antvis/G2](https://github.com/antvis/G2)
+3. 🗣 Commented on [#359](https://github.com/antvis/component/pull/359#issuecomment-3414719881) in [antvis/component](https://github.com/antvis/component)
+4. 💪 Opened PR [#359](undefined) in [antvis/component](https://github.com/antvis/component)
+5. 🔒 Closed issue [#6335](https://github.com/antvis/G2/issues/6335) in [antvis/G2](https://github.com/antvis/G2)
 <!--END_SECTION:activity-->
 

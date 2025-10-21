@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2834](https://github.com/ant-design/ant-design-charts/issues/2834) in [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts)
-2. 🗣 Commented on [#2834](https://github.com/ant-design/ant-design-charts/issues/2834#issuecomment-3424496176) in [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts)
-3. 🗣 Commented on [#6462](https://github.com/antvis/G2/issues/6462#issuecomment-3421878595) in [antvis/G2](https://github.com/antvis/G2)
-4. 🔒 Closed issue [#6570](https://github.com/antvis/G2/issues/6570) in [antvis/G2](https://github.com/antvis/G2)
-5. 🗣 Commented on [#6570](https://github.com/antvis/G2/issues/6570#issuecomment-3421812476) in [antvis/G2](https://github.com/antvis/G2)
+1. 💪 Opened PR [#336](undefined) in [antvis/dumi-theme-antv](https://github.com/antvis/dumi-theme-antv)
+2. 🔒 Closed issue [#2834](https://github.com/ant-design/ant-design-charts/issues/2834) in [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts)
+3. 🗣 Commented on [#2834](https://github.com/ant-design/ant-design-charts/issues/2834#issuecomment-3424496176) in [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts)
+4. 🗣 Commented on [#6462](https://github.com/antvis/G2/issues/6462#issuecomment-3421878595) in [antvis/G2](https://github.com/antvis/G2)
+5. 🔒 Closed issue [#6570](https://github.com/antvis/G2/issues/6570) in [antvis/G2](https://github.com/antvis/G2)
 <!--END_SECTION:activity-->
 

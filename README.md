@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#7161](https://github.com/antvis/G2/issues/7161) in [antvis/G2](https://github.com/antvis/G2)
-2. 💪 Opened PR [#7158](undefined) in [antvis/G2](https://github.com/antvis/G2)
-3. ❌ Labeled PR [#336](undefined) in [antvis/dumi-theme-antv](https://github.com/antvis/dumi-theme-antv)
-4. 💪 Opened PR [#336](undefined) in [antvis/dumi-theme-antv](https://github.com/antvis/dumi-theme-antv)
-5. 🔒 Closed issue [#2834](https://github.com/ant-design/ant-design-charts/issues/2834) in [ant-design/ant-design-charts](https://github.com/ant-design/ant-design-charts)
+1. 💪 Opened PR [#7168](undefined) in [antvis/G2](https://github.com/antvis/G2)
+2.  Labeled issue [#7161](https://github.com/antvis/G2/issues/7161) in [antvis/G2](https://github.com/antvis/G2)
+3. 💪 Opened PR [#7158](undefined) in [antvis/G2](https://github.com/antvis/G2)
+4. ❌ Labeled PR [#336](undefined) in [antvis/dumi-theme-antv](https://github.com/antvis/dumi-theme-antv)
+5. 💪 Opened PR [#336](undefined) in [antvis/dumi-theme-antv](https://github.com/antvis/dumi-theme-antv)
 <!--END_SECTION:activity-->
 

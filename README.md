@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7197](https://github.com/antvis/G2/issues/7197#issuecomment-3545862185) in [antvis/G2](https://github.com/antvis/G2)
-2. 🗣 Commented on [#7197](https://github.com/antvis/G2/issues/7197#issuecomment-3540172369) in [antvis/G2](https://github.com/antvis/G2)
-3.  Labeled issue [#7197](https://github.com/antvis/G2/issues/7197) in [antvis/G2](https://github.com/antvis/G2)
-4.  Labeled issue [#7197](https://github.com/antvis/G2/issues/7197) in [antvis/G2](https://github.com/antvis/G2)
-5.  Unlabeled issue [#7197](https://github.com/antvis/G2/issues/7197) in [antvis/G2](https://github.com/antvis/G2)
+1. 🔒 Closed issue [#4998](https://github.com/antvis/G2/issues/4998) in [antvis/G2](https://github.com/antvis/G2)
+2. 🔒 Closed issue [#6018](https://github.com/antvis/G2/issues/6018) in [antvis/G2](https://github.com/antvis/G2)
+3. 🗣 Commented on [#7197](https://github.com/antvis/G2/issues/7197#issuecomment-3545862185) in [antvis/G2](https://github.com/antvis/G2)
+4. 🗣 Commented on [#7197](https://github.com/antvis/G2/issues/7197#issuecomment-3540172369) in [antvis/G2](https://github.com/antvis/G2)
+5.  Labeled issue [#7197](https://github.com/antvis/G2/issues/7197) in [antvis/G2](https://github.com/antvis/G2)
 <!--END_SECTION:activity-->
 

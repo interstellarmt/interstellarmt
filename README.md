@@ -22,6 +22,6 @@ I'm **interstellarmt**.
 2.  Unlabeled issue [#7237](https://github.com/antvis/G2/issues/7237) in [antvis/G2](https://github.com/antvis/G2)
 3.  Unlabeled issue [#7237](https://github.com/antvis/G2/issues/7237) in [antvis/G2](https://github.com/antvis/G2)
 4.  Labeled issue [#7237](https://github.com/antvis/G2/issues/7237) in [antvis/G2](https://github.com/antvis/G2)
-5.  Unlabeled issue [#7237](https://github.com/antvis/G2/issues/7237) in [antvis/G2](https://github.com/antvis/G2)
+5.  Labeled issue [#7237](https://github.com/antvis/G2/issues/7237) in [antvis/G2](https://github.com/antvis/G2)
 <!--END_SECTION:activity-->
 

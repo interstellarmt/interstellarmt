@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#7263](https://github.com/antvis/G2/issues/7263) in [antvis/G2](https://github.com/antvis/G2)
-2. ℹ️ Unlabeled issue [#7263](https://github.com/antvis/G2/issues/7263) in [antvis/G2](https://github.com/antvis/G2)
-3. ℹ️ Labeled issue [#7263](https://github.com/antvis/G2/issues/7263) in [antvis/G2](https://github.com/antvis/G2)
+1. 💪 Opened PR [#7265](https://github.com/antvis/G2/pull/7265) in [antvis/G2](https://github.com/antvis/G2)
+2. ℹ️ Labeled issue [#7263](https://github.com/antvis/G2/issues/7263) in [antvis/G2](https://github.com/antvis/G2)
+3. ℹ️ Unlabeled issue [#7263](https://github.com/antvis/G2/issues/7263) in [antvis/G2](https://github.com/antvis/G2)
 4. ℹ️ Labeled issue [#7263](https://github.com/antvis/G2/issues/7263) in [antvis/G2](https://github.com/antvis/G2)
-5. ❗ Opened issue [#7263](https://github.com/antvis/G2/issues/7263) in [antvis/G2](https://github.com/antvis/G2)
+5. ℹ️ Labeled issue [#7263](https://github.com/antvis/G2/issues/7263) in [antvis/G2](https://github.com/antvis/G2)
 <!--END_SECTION:activity-->
 

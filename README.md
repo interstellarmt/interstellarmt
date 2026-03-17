@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7265](https://github.com/antvis/G2/pull/7265) in [antvis/G2](https://github.com/antvis/G2)
-2. 💪 Opened PR [#7265](https://github.com/antvis/G2/pull/7265) in [antvis/G2](https://github.com/antvis/G2)
-3. ℹ️ Labeled issue [#7263](https://github.com/antvis/G2/issues/7263) in [antvis/G2](https://github.com/antvis/G2)
-4. ℹ️ Unlabeled issue [#7263](https://github.com/antvis/G2/issues/7263) in [antvis/G2](https://github.com/antvis/G2)
-5. ℹ️ Labeled issue [#7263](https://github.com/antvis/G2/issues/7263) in [antvis/G2](https://github.com/antvis/G2)
+1. 🎉 Merged PR [#342](https://github.com/antvis/dumi-theme-antv/pull/342) in [antvis/dumi-theme-antv](https://github.com/antvis/dumi-theme-antv)
+2. 💪 Opened PR [#342](https://github.com/antvis/dumi-theme-antv/pull/342) in [antvis/dumi-theme-antv](https://github.com/antvis/dumi-theme-antv)
+3. 🎉 Merged PR [#341](https://github.com/antvis/dumi-theme-antv/pull/341) in [antvis/dumi-theme-antv](https://github.com/antvis/dumi-theme-antv)
+4. 💪 Opened PR [#341](https://github.com/antvis/dumi-theme-antv/pull/341) in [antvis/dumi-theme-antv](https://github.com/antvis/dumi-theme-antv)
+5. 🎉 Merged PR [#340](https://github.com/antvis/dumi-theme-antv/pull/340) in [antvis/dumi-theme-antv](https://github.com/antvis/dumi-theme-antv)
 <!--END_SECTION:activity-->
 

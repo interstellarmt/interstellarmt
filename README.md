@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#7243](https://github.com/antvis/G2/pull/7243) in [antvis/G2](https://github.com/antvis/G2)
-2. 💪 Opened PR [#346](https://github.com/antvis/dumi-theme-antv/pull/346) in [antvis/dumi-theme-antv](https://github.com/antvis/dumi-theme-antv)
-3. 💪 Opened PR [#7628](https://github.com/antvis/G6/pull/7628) in [antvis/G6](https://github.com/antvis/G6)
-4. 🎉 Merged PR [#7282](https://github.com/antvis/G2/pull/7282) in [antvis/G2](https://github.com/antvis/G2)
+1. ❌ Closed PR [#6781](https://github.com/antvis/G2/pull/6781) in [antvis/G2](https://github.com/antvis/G2)
+2. ❌ Closed PR [#6705](https://github.com/antvis/G2/pull/6705) in [antvis/G2](https://github.com/antvis/G2)
+3. ❌ Closed PR [#7247](https://github.com/antvis/G2/pull/7247) in [antvis/G2](https://github.com/antvis/G2)
+4. ❌ Closed PR [#7243](https://github.com/antvis/G2/pull/7243) in [antvis/G2](https://github.com/antvis/G2)
 5. 💪 Opened PR [#7282](https://github.com/antvis/G2/pull/7282) in [antvis/G2](https://github.com/antvis/G2)
 <!--END_SECTION:activity-->
 

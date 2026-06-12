@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7666](https://github.com/antvis/G6/pull/7666) in [antvis/G6](https://github.com/antvis/G6)
-2. 💪 Opened PR [#7666](https://github.com/antvis/G6/pull/7666) in [antvis/G6](https://github.com/antvis/G6)
-3. 🔒 Closed issue [#7619](https://github.com/antvis/G2/issues/7619) in [antvis/G2](https://github.com/antvis/G2)
-4. ℹ️ Labeled issue [#7619](https://github.com/antvis/G2/issues/7619) in [antvis/G2](https://github.com/antvis/G2)
-5. ❗ Opened issue [#7619](https://github.com/antvis/G2/issues/7619) in [antvis/G2](https://github.com/antvis/G2)
+1. 🚀 Published release [v0.1.0](https://github.com/interstellarmt/node-tdx/releases/tag/v0.1.0) in [interstellarmt/node-tdx](https://github.com/interstellarmt/node-tdx)
+2. 🎉 Merged PR [#7666](https://github.com/antvis/G6/pull/7666) in [antvis/G6](https://github.com/antvis/G6)
+3. 💪 Opened PR [#7666](https://github.com/antvis/G6/pull/7666) in [antvis/G6](https://github.com/antvis/G6)
+4. 🔒 Closed issue [#7619](https://github.com/antvis/G2/issues/7619) in [antvis/G2](https://github.com/antvis/G2)
+5. ℹ️ Labeled issue [#7619](https://github.com/antvis/G2/issues/7619) in [antvis/G2](https://github.com/antvis/G2)
 <!--END_SECTION:activity-->
 

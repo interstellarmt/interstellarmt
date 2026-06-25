@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com/antvis/chart-visualization-skills/pull/89) in [antvis/chart-visualization-skills](https://github.com/antvis/chart-visualization-skills)
-2. 🚀 Published release [v0.1.0](https://github.com/interstellarmt/node-tdx/releases/tag/v0.1.0) in [interstellarmt/node-tdx](https://github.com/interstellarmt/node-tdx)
-3. 🎉 Merged PR [#7666](https://github.com/antvis/G6/pull/7666) in [antvis/G6](https://github.com/antvis/G6)
-4. 💪 Opened PR [#7666](https://github.com/antvis/G6/pull/7666) in [antvis/G6](https://github.com/antvis/G6)
-5. 🔒 Closed issue [#7619](https://github.com/antvis/G2/issues/7619) in [antvis/G2](https://github.com/antvis/G2)
+1. 🚀 Published release [v0.2.0](https://github.com/interstellarmt/node-tdx/releases/tag/v0.2.0) in [interstellarmt/node-tdx](https://github.com/interstellarmt/node-tdx)
+2. 💪 Opened PR [#89](https://github.com/antvis/chart-visualization-skills/pull/89) in [antvis/chart-visualization-skills](https://github.com/antvis/chart-visualization-skills)
+3. 🚀 Published release [v0.1.0](https://github.com/interstellarmt/node-tdx/releases/tag/v0.1.0) in [interstellarmt/node-tdx](https://github.com/interstellarmt/node-tdx)
+4. 🎉 Merged PR [#7666](https://github.com/antvis/G6/pull/7666) in [antvis/G6](https://github.com/antvis/G6)
+5. 💪 Opened PR [#7666](https://github.com/antvis/G6/pull/7666) in [antvis/G6](https://github.com/antvis/G6)
 <!--END_SECTION:activity-->
 

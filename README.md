@@ -18,9 +18,9 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/antvis/Sive/pull/8) in [antvis/Sive](https://github.com/antvis/Sive)
-2. 💪 Opened PR [#8](https://github.com/antvis/Sive/pull/8) in [antvis/Sive](https://github.com/antvis/Sive)
-3. 🚀 Published release [v0.2.0](https://github.com/interstellarmt/node-tdx/releases/tag/v0.2.0) in [interstellarmt/node-tdx](https://github.com/interstellarmt/node-tdx)
+1. 💪 Opened PR [#429](https://github.com/antvis/GPT-Vis/pull/429) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
+2. 🎉 Merged PR [#8](https://github.com/antvis/Sive/pull/8) in [antvis/Sive](https://github.com/antvis/Sive)
+3. 💪 Opened PR [#8](https://github.com/antvis/Sive/pull/8) in [antvis/Sive](https://github.com/antvis/Sive)
 4. 💪 Opened PR [#89](https://github.com/antvis/chart-visualization-skills/pull/89) in [antvis/chart-visualization-skills](https://github.com/antvis/chart-visualization-skills)
 5. 🚀 Published release [v0.1.0](https://github.com/interstellarmt/node-tdx/releases/tag/v0.1.0) in [interstellarmt/node-tdx](https://github.com/interstellarmt/node-tdx)
 <!--END_SECTION:activity-->

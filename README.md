@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#369](https://github.com/antvis/component/pull/369) in [antvis/component](https://github.com/antvis/component)
-2. 💪 Opened PR [#8531](https://github.com/antvis/G2/pull/8531) in [antvis/G2](https://github.com/antvis/G2)
-3. 🚀 Published release [1.0.2](https://github.com/antvis/GPT-Vis/releases/tag/1.0.2) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
-4. 🎉 Merged PR [#440](https://github.com/antvis/GPT-Vis/pull/440) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
-5. 💪 Opened PR [#440](https://github.com/antvis/GPT-Vis/pull/440) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
+1. 💪 Opened PR [#370](https://github.com/antvis/component/pull/370) in [antvis/component](https://github.com/antvis/component)
+2. 🎉 Merged PR [#369](https://github.com/antvis/component/pull/369) in [antvis/component](https://github.com/antvis/component)
+3. 💪 Opened PR [#369](https://github.com/antvis/component/pull/369) in [antvis/component](https://github.com/antvis/component)
+4. 💪 Opened PR [#8531](https://github.com/antvis/G2/pull/8531) in [antvis/G2](https://github.com/antvis/G2)
+5. 🚀 Published release [1.0.2](https://github.com/antvis/GPT-Vis/releases/tag/1.0.2) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
 <!--END_SECTION:activity-->
 

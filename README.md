@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#370](https://github.com/antvis/component/pull/370) in [antvis/component](https://github.com/antvis/component)
-2. 💪 Opened PR [#370](https://github.com/antvis/component/pull/370) in [antvis/component](https://github.com/antvis/component)
-3. 🎉 Merged PR [#369](https://github.com/antvis/component/pull/369) in [antvis/component](https://github.com/antvis/component)
-4. 💪 Opened PR [#369](https://github.com/antvis/component/pull/369) in [antvis/component](https://github.com/antvis/component)
-5. 💪 Opened PR [#8531](https://github.com/antvis/G2/pull/8531) in [antvis/G2](https://github.com/antvis/G2)
+1. 🎉 Merged PR [#371](https://github.com/antvis/component/pull/371) in [antvis/component](https://github.com/antvis/component)
+2. 💪 Opened PR [#371](https://github.com/antvis/component/pull/371) in [antvis/component](https://github.com/antvis/component)
+3. 🎉 Merged PR [#370](https://github.com/antvis/component/pull/370) in [antvis/component](https://github.com/antvis/component)
+4. 💪 Opened PR [#370](https://github.com/antvis/component/pull/370) in [antvis/component](https://github.com/antvis/component)
+5. 🎉 Merged PR [#369](https://github.com/antvis/component/pull/369) in [antvis/component](https://github.com/antvis/component)
 <!--END_SECTION:activity-->
 

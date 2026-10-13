@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#3893](https://github.com/antvis/G2Plot/issues/3893) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+1. ❗ Opened issue [#3893](https://github.com/antvis/G2Plot/issues/3893) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
 2. ℹ️ Labeled issue [#3893](https://github.com/antvis/G2Plot/issues/3893) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
-3. 🎉 Merged PR [#371](https://github.com/antvis/component/pull/371) in [antvis/component](https://github.com/antvis/component)
-4. 💪 Opened PR [#371](https://github.com/antvis/component/pull/371) in [antvis/component](https://github.com/antvis/component)
-5. 🎉 Merged PR [#370](https://github.com/antvis/component/pull/370) in [antvis/component](https://github.com/antvis/component)
+3. ℹ️ Labeled issue [#3893](https://github.com/antvis/G2Plot/issues/3893) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+4. 🎉 Merged PR [#371](https://github.com/antvis/component/pull/371) in [antvis/component](https://github.com/antvis/component)
+5. 💪 Opened PR [#371](https://github.com/antvis/component/pull/371) in [antvis/component](https://github.com/antvis/component)
 <!--END_SECTION:activity-->
 

@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#442](https://github.com/antvis/GPT-Vis/pull/442) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
-2. 💪 Opened PR [#441](https://github.com/antvis/GPT-Vis/pull/441) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
-3. ❗ Opened issue [#3893](https://github.com/antvis/G2Plot/issues/3893) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
-4. ℹ️ Labeled issue [#3893](https://github.com/antvis/G2Plot/issues/3893) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+1. ❌ Closed PR [#442](https://github.com/antvis/GPT-Vis/pull/442) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
+2. 💪 Opened PR [#442](https://github.com/antvis/GPT-Vis/pull/442) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
+3. 💪 Opened PR [#441](https://github.com/antvis/GPT-Vis/pull/441) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
+4. ❗ Opened issue [#3893](https://github.com/antvis/G2Plot/issues/3893) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
 5. ℹ️ Labeled issue [#3893](https://github.com/antvis/G2Plot/issues/3893) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
 <!--END_SECTION:activity-->
 

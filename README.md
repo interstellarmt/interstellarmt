@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3897](https://github.com/antvis/G2Plot/pull/3897#issuecomment-6734519472) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
-2. ℹ️ Labeled PR [#3897](https://github.com/antvis/G2Plot/pull/3897) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
-3. ℹ️ Labeled PR [#3896](https://github.com/antvis/G2Plot/pull/3896) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
-4. ℹ️ Labeled PR [#3895](https://github.com/antvis/G2Plot/pull/3895) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
-5. 🗣 Commented on [#3896](https://github.com/antvis/G2Plot/pull/3896#issuecomment-6733775325) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+1. 🗣 Commented on [#3898](https://github.com/antvis/G2Plot/pull/3898#issuecomment-6734849539) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+2. ℹ️ Labeled PR [#3898](https://github.com/antvis/G2Plot/pull/3898) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+3. 🗣 Commented on [#3897](https://github.com/antvis/G2Plot/pull/3897#issuecomment-6734519472) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+4. ℹ️ Labeled PR [#3897](https://github.com/antvis/G2Plot/pull/3897) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+5. ℹ️ Labeled PR [#3896](https://github.com/antvis/G2Plot/pull/3896) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
 <!--END_SECTION:activity-->
 

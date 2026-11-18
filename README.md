@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3893](https://github.com/antvis/G2Plot/issues/3893#issuecomment-6971793510) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
-2. 🎉 Merged PR [#451](https://github.com/antvis/GPT-Vis/pull/451) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
-3. 🎉 Merged PR [#456](https://github.com/antvis/GPT-Vis/pull/456) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
-4. 🗣 Commented on [#3893](https://github.com/antvis/G2Plot/issues/3893#issuecomment-6935764404) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
-5. 💪 Opened PR [#456](https://github.com/antvis/GPT-Vis/pull/456) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
+1. ℹ️ Labeled issue [#3938](https://github.com/antvis/G2Plot/issues/3938) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+2. ℹ️ Labeled issue [#3938](https://github.com/antvis/G2Plot/issues/3938) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+3. ❗ Opened issue [#3938](https://github.com/antvis/G2Plot/issues/3938) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+4. 🗣 Commented on [#3893](https://github.com/antvis/G2Plot/issues/3893#issuecomment-6971793510) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+5. 🎉 Merged PR [#451](https://github.com/antvis/GPT-Vis/pull/451) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
 <!--END_SECTION:activity-->
 

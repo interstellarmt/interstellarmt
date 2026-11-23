@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3938](https://github.com/antvis/G2Plot/issues/3938#issuecomment-7093823421) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
-2. 🎉 Merged PR [#74](https://github.com/antvis/Sive/pull/74) in [antvis/Sive](https://github.com/antvis/Sive)
-3. 💪 Opened PR [#74](https://github.com/antvis/Sive/pull/74) in [antvis/Sive](https://github.com/antvis/Sive)
-4. ℹ️ Labeled issue [#3938](https://github.com/antvis/G2Plot/issues/3938) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
-5. ℹ️ Labeled issue [#3938](https://github.com/antvis/G2Plot/issues/3938) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+1. 🗣 Commented on [#3893](https://github.com/antvis/G2Plot/issues/3893#issuecomment-7094575254) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+2. 🗣 Commented on [#3893](https://github.com/antvis/G2Plot/issues/3893#issuecomment-7094591831) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+3. 🗣 Commented on [#3938](https://github.com/antvis/G2Plot/issues/3938#issuecomment-7093823421) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+4. 🎉 Merged PR [#74](https://github.com/antvis/Sive/pull/74) in [antvis/Sive](https://github.com/antvis/Sive)
+5. 💪 Opened PR [#74](https://github.com/antvis/Sive/pull/74) in [antvis/Sive](https://github.com/antvis/Sive)
 <!--END_SECTION:activity-->
 

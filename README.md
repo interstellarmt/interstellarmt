@@ -18,10 +18,10 @@ I'm **interstellarmt**.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#459](https://github.com/antvis/GPT-Vis/pull/459) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
-2. 💪 Opened PR [#460](https://github.com/antvis/GPT-Vis/pull/460) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
-3. 💪 Opened PR [#459](https://github.com/antvis/GPT-Vis/pull/459) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
-4. 🗣 Commented on [#3897](https://github.com/antvis/G2Plot/pull/3897#issuecomment-7096493161) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
-5. 🗣 Commented on [#3893](https://github.com/antvis/G2Plot/issues/3893#issuecomment-7094575254) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
+1. 🎉 Merged PR [#460](https://github.com/antvis/GPT-Vis/pull/460) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
+2. 🎉 Merged PR [#459](https://github.com/antvis/GPT-Vis/pull/459) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
+3. 💪 Opened PR [#460](https://github.com/antvis/GPT-Vis/pull/460) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
+4. 💪 Opened PR [#459](https://github.com/antvis/GPT-Vis/pull/459) in [antvis/GPT-Vis](https://github.com/antvis/GPT-Vis)
+5. 🗣 Commented on [#3897](https://github.com/antvis/G2Plot/pull/3897#issuecomment-7096493161) in [antvis/G2Plot](https://github.com/antvis/G2Plot)
 <!--END_SECTION:activity-->
 
